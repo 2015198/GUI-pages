@@ -41,7 +41,7 @@ public class login extends javax.swing.JFrame {
         jLabel1.setText("username");
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 110, -1, -1));
 
-        jButton1.setText("check");
+        jButton1.setText("login");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
